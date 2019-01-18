@@ -24,6 +24,7 @@
 - draft-js-single-line-plugin
 - draft-js-utils
 - date-arithmetic
+- deepmerge (https://github.com/TehShrike/deepmerge/commit/c63a55f7ceeb764fe0275c28359ddbb358c26f6d#commitcomment-31908268)
 - dom-helpers
 - gud
 - i18next-chained-backend
