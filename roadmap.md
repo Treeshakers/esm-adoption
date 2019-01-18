@@ -1,23 +1,23 @@
 # List of packages we want to be upgraded
 
-- @material-ui\/core
-- @material-ui\/icons
-- @material-ui\/lab
-- @material-ui\/utils
-- @turf\/bbox
+- @material-ui/core (https://github.com/mui-org/material-ui/pull/13391)
+- @material-ui/icons
+- @material-ui/lab
+- @material-ui/utils
+- @turf/bbox
 - attr-accept
 - asap
 - autolinker
-- classnames
+- classnames (https://github.com/JedWatson/classnames/pull/150)
 - clipboard-copy
 - core-js
-- create-react-context
-- codemirror
+- create-react-context (https://github.com/jamiebuilds/create-react-context/pull/2)
+- codemirror  
 - css-vendor
 - decorate-component-with-props
-- draft-js
+- draft-js (https://github.com/facebook/draft-js/issues/1852)
 - draft-convert
-- draft-js-ast-exporter
+- draft-js-ast-exporter 
 - draft-js-ast-importer
 - draft-js-mention-plugin
 - draft-js-plugins-editor
@@ -31,9 +31,9 @@
 - i18next-xhr-backend
 - immutable
 - hammerjs
-- hoist-non-react-statics
+- hoist-non-react-statics (https://github.com/mridgway/hoist-non-react-statics/pull/72)
 - fbjs
-- keycode
+- keycode (https://github.com/timoxley/keycode/pull/49)
 - linkify-it
 - locize-editor
 - mapbox-gl
@@ -50,10 +50,10 @@
 - react
 - react-big-calendar
 - react-dom
-- react-event-listener
+- react-event-listener (https://github.com/oliviertassinari/react-event-listener/pull/79)
 - react-is
 - react-input-autosize
-- react-fast-compare
+- react-fast-compare (https://github.com/FormidableLabs/react-fast-compare/pull/40)
 - react-move
 - react-overlays
 - react-prop-types
@@ -61,16 +61,15 @@
 - react-slick
 - react-sortable-hoc
 - react-text-mask
-- react-transition-group
+- react-transition-group (https://github.com/reactjs/react-transition-group/pull/77)
 - relay-runtime
 - remarkable
 - scheduler
 - semver-compare
-- styled-system
 - stylis
 - stylis-rule-sheet
 - ua-parser-js
 - uncontrollable
 - superagent
-- svg\.js
-- svg\.draw\.js
+- svg.js
+- svg.draw.js
