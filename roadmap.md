@@ -61,6 +61,7 @@
 - react-relay
 - react-slick
 - react-sortable-hoc
+- react-syntax-highlighter (https://github.com/conorhastings/react-syntax-highlighter)
 - react-text-mask
 - react-transition-group (https://github.com/reactjs/react-transition-group/pull/77)
 - relay-runtime
