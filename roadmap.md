@@ -33,7 +33,6 @@
 - immutable
 - hammerjs
 - hoist-non-react-statics (https://github.com/mridgway/hoist-non-react-statics/pull/72)
-- [hyphenate-style-name](https://github.com/rexxars/hyphenate-style-name) (https://github.com/rexxars/hyphenate-style-name/pull/5)
 - fbjs
 - keycode (https://github.com/timoxley/keycode/pull/49)
 - linkify-it
