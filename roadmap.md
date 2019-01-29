@@ -13,7 +13,8 @@
 - core-js
 - create-react-context (https://github.com/jamiebuilds/create-react-context/pull/2)
 - codemirror  
-- css-vendor
+- css-vendor (https://github.com/cssinjs/css-vendor/pull/67)
+- css-initials
 - decorate-component-with-props
 - draft-js (https://github.com/facebook/draft-js/issues/1852)
 - draft-convert
