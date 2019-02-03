@@ -40,7 +40,7 @@ Then terser migrated to rollup which added `esModule` property to exports namesp
 }));
 ```
 
-Now babel interop trusts that imported object is a namespace with named and default exports as properties. This broke the web. This is where default exports overusing let us down.
+Now babel interop trusts that imported object is a namespace with named and default exports as properties. However `default` property was missing. This broke the web. This is where default exports overusing let us down.
 
 ## Related
 
