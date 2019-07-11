@@ -50,7 +50,6 @@
 - prop-types-extra
 - raf
 - react
-- react-big-calendar
 - react-dom
 - react-event-listener (https://github.com/oliviertassinari/react-event-listener/pull/79)
 - react-is
